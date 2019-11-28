@@ -17,12 +17,16 @@ A Top-down Shooter Games where you have to `Shoot Frunemies`(Fruit Enemies). Eve
 - Wall Asset - Author Unknown
 
 **Sound Effects** - BFXR
+
 **Sprites** - Photoshop
+
 **Engine** - Unity 2019.2.8f1
 
 
 Programming - Kushagra "negativeProton" Prakash
+
 Art- Kushagra "negativeProton" Prakash
+
 Design - Kushagra "negativeProton" Prakash
 
 # Special Mention
