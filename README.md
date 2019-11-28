@@ -22,16 +22,17 @@ A Top-down Shooter Games where you have to `Shoot Frunemies`(Fruit Enemies). Eve
 
 **Engine** - Unity 2019.2.8f1
 
+### Work By:
 
-Programming - Kushagra "negativeProton" Prakash
+**Programming** - Kushagra *"negativeProton"* Prakash
 
-Art- Kushagra "negativeProton" Prakash
+**Art** - Kushagra *"negativeProton"* Prakash
 
-Design - Kushagra "negativeProton" Prakash
+**Design** - Kushagra *"negativeProton"* Prakash
 
-# Special Mention
-Design & Concept - Mayank "Maximusprime_909" Srivastava
-Design & Art - Siddhartha "TimetrvgGhoul" Bose
+## Special Mention
+**Design & Concept** - Mayank *"Maximusprime_909"* Srivastava
+**Design & Art** - Siddhartha *"TimetrvgGhoul"* Bose
 
 ## Get It Here
 ![Itch.io Promo Mat](https://i.imgur.com/m2ulUJ6.png)
