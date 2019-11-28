@@ -32,6 +32,7 @@ A Top-down Shooter Games where you have to `Shoot Frunemies`(Fruit Enemies). Eve
 
 ## Special Mention
 **Design & Concept** - Mayank *"Maximusprime_909"* Srivastava
+
 **Design & Art** - Siddhartha *"TimetrvgGhoul"* Bose
 
 ## Get It Here
