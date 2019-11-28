@@ -1,0 +1,10 @@
+//Enemy Spawn
+//Enemy Spawn Sprite
+//Implement Score System
+Player takes damage when the enemy comes in contact with it
+Design 2 Additional Levels
+
+
+//Try\\
+Custom Color for Diff Enemies
+//PostProcessing Effect During SlowMo Effect
